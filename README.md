@@ -1,5 +1,5 @@
 # FaceWrekt
 
 if(!Wrekt) {
-    GetWrekt();
+    GetWrekt(OHEMGEE);
 }
